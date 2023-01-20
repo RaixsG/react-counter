@@ -11,7 +11,7 @@
 
 .App {
     min-height: 100vh;
-    background-color: #0097a7;
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
     display: flex;
     justify-content: center;
     align-items: center;
