@@ -15,7 +15,7 @@ const Counter = () => {
     if (num > 0){
       setNum(num - 1);
     }else{
-      alert("No we");
+      alert("No puedes ingresar números negativos xd");
     }
   }
 
